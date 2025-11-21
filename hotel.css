@@ -1,0 +1,34 @@
+<html>
+<head>
+<style>
+body{
+    color:Lightblue;
+    text-align:Center;
+    padding:20px;
+    font-size:1.5em;
+    font-family:Arial;
+    background-image: url(hotel.jpg);
+    background-image style:no repeat;
+    }
+h1{color:green;
+    font-size:2em;
+    font-family:Elephant; 
+    text-transformation:Upper case;
+    text-shadow:2em.2em silver;
+    text-decoration:Underline;
+    text-align:Left;}
+h2{color:Maroon;
+   font-size:2em;
+   font-family:Verdana;
+   text-decoration:Underline;}
+p{font-size:1.5em;
+   font-family:Arial;
+   color: Blue;
+   text-transformation:Sentence case;}
+ul{list-style-position:Outside;
+    list-style-type:Circle;}
+marquee{color:Red;
+        border:solid black;}
+</style>
+</head>
+</html>
